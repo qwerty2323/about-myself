@@ -11,9 +11,24 @@ My name is Ivan Shelomentsev, 24y, married, 2 kids (Varvara :girl:, 7y, and Eric
 
 ## Apps I'm working on:
 
-- Ten thousand hours https://github.com/qwerty2323/tth
+- Ten thousand hours
+  - source -> https://github.com/qwerty2323/tth,
+  - heroku -> http://safe-waters-32783.herokuapp.com/ (currently doesn't work, postgresql is not configured)
 
 ## Code I read:
 
 - https://github.com/plataformatec/devise
 - https://github.com/rails/rails
+
+## Plans
+
+- Spend 10_000 hours mastering the Stack:
+  - UNIX
+  - Web (HTML/HAML/Slim, CSS/SASS, js/jQuery)
+  - Ruby && Ruby On Rails
+  - Postgresql
+  - Redis
+  - Sidekiq
+  - Capybara && RSpec
+  - Capistrano
+- Start a blog and write what's planned for today &&  what was done yesterday.
